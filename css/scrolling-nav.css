@@ -41,3 +41,11 @@ section {
 #projects img {
   width: 100%;
 }
+
+a {
+  color: #da6d00;
+}
+
+a:hover {
+  color: #da8026;
+}
