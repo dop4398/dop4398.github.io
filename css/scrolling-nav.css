@@ -53,3 +53,8 @@ a {
 a:hover {
   color: #da8026;
 }
+
+.header-above-modal {
+  margin-top: 7.5%;
+  margin-bottom: 2.5%;
+}
