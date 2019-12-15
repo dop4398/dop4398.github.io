@@ -28,7 +28,8 @@ section {
 }
 
 .btn {
-  margin-top: 0px;
+  margin-top: 5px;
+  margin-bottom: 25px;
   background-color: #da6d00;
   border-color: #da6d00;
 }
