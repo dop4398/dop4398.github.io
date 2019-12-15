@@ -28,7 +28,7 @@ section {
 }
 
 .btn {
-  margin-top: 30px;
+  margin-top: 0px;
   background-color: #da6d00;
   border-color: #da6d00;
 }
@@ -54,7 +54,11 @@ a:hover {
   color: #da8026;
 }
 
+.download {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
 .header-above-modal {
-  margin-top: 7.5%;
-  margin-bottom: 2.5%;
+  margin-bottom: 0px;
 }
