@@ -35,8 +35,8 @@ section {
 }
 
 .btn:hover {
-  background-color: #da8026;
-  border-color: #da8026;
+  background-color: #df954c;
+  border-color: #df954c;
 }
 
 #projects img {
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-  color: #da8026;
+  color: #df954c;
 }
 
 .download {
