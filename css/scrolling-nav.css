@@ -63,3 +63,8 @@ a:hover {
 .header-above-modal {
   margin-bottom: 0px;
 }
+
+.center-text {
+  display: flex;
+  justify-content: center;
+}
